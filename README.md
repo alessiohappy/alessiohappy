@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alessiohappy
+- 👀 I’m interested in genetic epidemiology, environmental exposures and machine learning.
+- 🌱 I’m currently learning Python programming and R programming languages, but also how to use web tools to improve my computer skills.
+- 📫 I'm a PhD student in Genetic Epidemiology, at University of Pisa.
